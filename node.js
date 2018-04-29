@@ -1,5 +1,6 @@
 
 var http = require('http');
+var formidable = require('formidable');
 var mongo = require('mongodb'); 
 
 http.createServer(function (req, res) {
