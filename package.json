@@ -11,6 +11,6 @@
   "dependencies": {
     "formidable": "^1.2.1",
     "mongodb": "^3.0.7",
-    "nodemailer": "^4.6.4"
+    "nodemailer": "^6.4.16"
   }
 }
